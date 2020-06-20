@@ -2,45 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Top on Yuri Oku&#39;s Homepage</title>
-    <link>file:///C:/Users/o7k1u/Documents/myhomepage/</link>
+    <link>https://yurioku.netlify.app/</link>
     <description>Recent content in Top on Yuri Oku&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 May 2020 17:14:15 +0900</lastBuildDate>
     
-	<atom:link href="file:///C:/Users/o7k1u/Documents/myhomepage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yurioku.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Publications</title>
-      <link>file:///C:/Users/o7k1u/Documents/myhomepage/publications/</link>
+      <title>Research</title>
+      <link>https://yurioku.netlify.app/research/</link>
       <pubDate>Thu, 07 May 2020 18:54:23 +0900</pubDate>
       
-      <guid>file:///C:/Users/o7k1u/Documents/myhomepage/publications/</guid>
-      <description>My Publications List - NASA ADS Library
-&#34;Phase separation kinetics of a symmetric binary mixture of glass-forming liquids&#34;
-Oku, Y., Takae, K., Ikeda, A., 2020, Phys. Rev. E, submitted, arXiv:2004.02103  </description>
+      <guid>https://yurioku.netlify.app/research/</guid>
+      <description>My Publications List - NASA ADS Library</description>
     </item>
     
     <item>
       <title>Presentations</title>
-      <link>file:///C:/Users/o7k1u/Documents/myhomepage/presentations/</link>
+      <link>https://yurioku.netlify.app/presentations/</link>
       <pubDate>Thu, 07 May 2020 17:25:55 +0900</pubDate>
       
-      <guid>file:///C:/Users/o7k1u/Documents/myhomepage/presentations/</guid>
-      <description>Presentations </description>
+      <guid>https://yurioku.netlify.app/presentations/</guid>
+      <description>Presentations Upcoming conferences  &#34;高分解能シミュレーションに基づいた超新星フィードバックモデルの構築&#34;, Oku, Y., Tomida,K.,2020 Autumn Annual Meeting, Astronomical Society of Japan, Online meeting, 2020/09/08-10   Past conferences  &#34;超新星フィードバックの金属量依存性&#34;, Oku, Y., Tomida, K., 2020 Spring Annual Meeting, The Astronomical Society of Japan, Tsukuba U., 2020/03/16-19 (oral)  &#34;Towards Modeling Supernovae in Galaxy Formation Simulation&#34;, Oku, Y., Nagamine, K., Shimizu, I., Tomida, K., CfCA Users&#39; Meeting 2019, NAOJ, 2020/01/20-21 (poster)  &#34;銀河形成シミュレーションでの超新星フィードバックモデルに向けて&#34;, Oku, Y., Nagamine, K., Shimizu, I.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>file:///C:/Users/o7k1u/Documents/myhomepage/about/</link>
+      <link>https://yurioku.netlify.app/about/</link>
       <pubDate>Sat, 02 May 2020 21:59:23 +0900</pubDate>
       
-      <guid>file:///C:/Users/o7k1u/Documents/myhomepage/about/</guid>
-      <description>Personal          Family Name Oku   Given Name Yuri   Status Graduate Student   Affiliation Theoretical Astrophysics Group (OUTAP)
-Department of Earth and Space Science
-Graduate School of Science
-Osaka University   Email oku[at]astro-osaka.jp   Links ORCID, Google Scholar, Mendeley, Github    Education          2019/4 - present Graduate School of Science, Osaka University   2017/4 - 2019/3 Mathematical Sciences Cource, Department of Integrated Science,</description>
+      <guid>https://yurioku.netlify.app/about/</guid>
+      <description>Personal          Name Oku, Yuri   名前 奥 裕理   Status Graduate Student   Affiliation Theoretical Astrophysics Group (OUTAP), Department of Earth and Space Science, Graduate School of Science, Osaka University   Email oku[at]astro-osaka.jp   Address 1-1, Machikaneyama, Toyonaka, Osaka, 560-0043, JAPAN   Links Github, Google Scholar, Mendeley, ORCID, Scopus    Education          2019/4 - present Graduate School of Science, Osaka University   2017/4 - 2019/3 Mathematical Sciences Cource, Department of Integrated Science,</description>
     </item>
     
   </channel>
