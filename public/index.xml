@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Top on Yuri Oku&#39;s Homepage</title>
+    <link>file:///C:/Users/o7k1u/Documents/myhomepage/</link>
+    <description>Recent content in Top on Yuri Oku&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 17:14:15 +0900</lastBuildDate>
+    
+	<atom:link href="file:///C:/Users/o7k1u/Documents/myhomepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>file:///C:/Users/o7k1u/Documents/myhomepage/publications/</link>
+      <pubDate>Thu, 07 May 2020 18:54:23 +0900</pubDate>
+      
+      <guid>file:///C:/Users/o7k1u/Documents/myhomepage/publications/</guid>
+      <description>My Publications List - NASA ADS Library
+&#34;Phase separation kinetics of a symmetric binary mixture of glass-forming liquids&#34;
+Oku, Y., Takae, K., Ikeda, A., 2020, Phys. Rev. E, submitted, arXiv:2004.02103  </description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>file:///C:/Users/o7k1u/Documents/myhomepage/presentations/</link>
+      <pubDate>Thu, 07 May 2020 17:25:55 +0900</pubDate>
+      
+      <guid>file:///C:/Users/o7k1u/Documents/myhomepage/presentations/</guid>
+      <description>Presentations </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>file:///C:/Users/o7k1u/Documents/myhomepage/about/</link>
+      <pubDate>Sat, 02 May 2020 21:59:23 +0900</pubDate>
+      
+      <guid>file:///C:/Users/o7k1u/Documents/myhomepage/about/</guid>
+      <description>Personal          Family Name Oku   Given Name Yuri   Status Graduate Student   Affiliation Theoretical Astrophysics Group (OUTAP)
+Department of Earth and Space Science
+Graduate School of Science
+Osaka University   Email oku[at]astro-osaka.jp   Links ORCID, Google Scholar, Mendeley, Github    Education          2019/4 - present Graduate School of Science, Osaka University   2017/4 - 2019/3 Mathematical Sciences Cource, Department of Integrated Science,</description>
+    </item>
+    
+  </channel>
+</rss>
