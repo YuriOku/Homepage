@@ -10,7 +10,7 @@ date: 2020-05-07T17:25:55+09:00
 {{< rawhtml >}}
 <ol reversed=reversed">
   <li>
-  "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K.,2020 Autumn Annual Meeting, Astronomical Society of Japan, Online meeting, 2020/09/08-10
+  "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K.,2020 Autumn Annual Meeting, The Astronomical Society of Japan, Online meeting, 2020/09/08-10
   </li>
 </ol>
 {{< /rawhtml >}}

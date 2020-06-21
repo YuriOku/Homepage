@@ -24,7 +24,7 @@ date: 2020-05-02T21:59:23+09:00
 |2015/4 - 2017/3 | Natural Sciences I, [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)|
 |2012/4 - 2015/3 | [Yokkaichi senior High School](http://www.shiko.ed.jp/) |
 
-## Research Interest
+## Research Interests
 
 - Galaxy formation and evolution
 - Supernova feedback
