@@ -11,4 +11,8 @@ date: 2020-05-07T18:54:23+09:00
 
 I am studying astrophysics mainly using numerical simulations. I am interested in galaxy formation, especially in feedback from supernovae.
 
-{{< figure src="/media/gadget3-test.gif" alt="Structure formation" >}}
+{{< rawhtml >}}
+<video autoplay loop muted playsinline>  
+  <source src="/media/cosmological.mp4" type="video/mp4">  
+</video>  
+{{< /rawhtml >}}
