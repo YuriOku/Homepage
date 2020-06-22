@@ -13,6 +13,7 @@ I am studying astrophysics mainly using numerical simulations. I am interested i
 
 {{< rawhtml >}}
 <video autoplay loop muted playsinline> 
+  <source src="/media/cosmological.webm" type="video/webm">  
   <source src="/media/cosmological.mp4" type="video/mp4">  
 </video>  
 {{< /rawhtml >}}

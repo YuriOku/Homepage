@@ -8,7 +8,7 @@ date: 2020-05-02T21:59:23+09:00
 | | |
 |:-----------:|:-----------|
 |Name | Oku, Yuri|
-|名前| 奥 裕理|
+|名前| 奥 裕理 (おく ゆうり)|
 |Status | Graduate Student|
 |Affiliation | [Theoretical Astrophysics Group (OUTAP)](http://astro-osaka.jp/OUTAP/index.html), <br>[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), <br>[Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), <br>[Osaka University](http://www.osaka-u.ac.jp/ja)|
 |Email | oku[at]astro-osaka.jp|
