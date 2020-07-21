@@ -5,17 +5,20 @@ date: 2020-05-07T17:25:55+09:00
 
 ## Presentations
 
-### Upcoming conferences
+### Upcoming domestic conferences
 
 {{< rawhtml >}}
-<ol reversed=reversed">
+<ol>
   <li>
-  "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K.,2020 Autumn Annual Meeting, The Astronomical Society of Japan, Online meeting, 2020/09/08-10
+  "Construction of supernova feedback model based on high-resolution simulations", Oku, Y., Galaxy-IGM workshop 2020, Online meeting, 2020/08/03-07
+  </li>
+  <li>
+  "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,2020 Autumn Annual Meeting, The Astronomical Society of Japan, Online meeting, 2020/09/08-10
   </li>
 </ol>
 {{< /rawhtml >}}
 
-### Past conferences
+### Past domestic conferences
 
 {{< rawhtml >}}
 <ol reversed=reversed">
