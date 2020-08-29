@@ -3,8 +3,6 @@ title: "Presentations"
 date: 2020-05-07T17:25:55+09:00
 ---
 
-## Presentations
-
 ### Upcoming domestic conferences
 
 {{< rawhtml >}}
