@@ -7,9 +7,6 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol>
-  <li>
-  "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="http://www.asj.or.jp/nenkai/">2020 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2020/09/08-10
-  </li>
 </ol>
 {{< /rawhtml >}}
 
@@ -17,6 +14,9 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>
+  "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="http://www.asj.or.jp/nenkai/">2020 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2020/09/08-10 (oral)
+  </li>
   <li>
   "Modeling Supernovae Based on High Resolution Simulations", Oku, Y., Tomida, K., Nagamine, K., Shimizu, I., <a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2020/08/03/galaxy-igm/">Galaxy-IGM workshop 2020</a>, Online meeting, 2020/08/03-07 (oral)
   </li>
