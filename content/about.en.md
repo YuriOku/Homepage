@@ -10,11 +10,11 @@ date: 2020-05-02T21:59:23+09:00
 |Name | Oku, Yuri|
 |名前| 奥 裕理 (おく ゆうり)|
 |Status | Graduate Student|
-|Affiliation | [Theoretical Astrophysics Group (OUTAP)](http://astro-osaka.jp/OUTAP/index.html), <br>[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), <br>[Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), <br>[Osaka University](http://www.osaka-u.ac.jp/ja)|
+|Affiliation | [Theoretical Astrophysics Group (OUTAP)](https://astro-osaka.jp/OUTAP/index.html), <br>[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), <br>[Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), <br>[Osaka University](https://www.osaka-u.ac.jp/ja)|
 |Email | oku[at]astro-osaka.jp|
 |Phone | +81-6-6850-5482|
 |Address| 1-1, Machikaneyama, Toyonaka, Osaka, 560-0043, JAPAN|
-|Links | [Github](https://github.com/YuriOku), [Google Scholar](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [Mendeley](https://www.mendeley.com/profiles/yuri-oku/), [ORCID](https://orcid.org/0000-0002-5712-6865), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216936867)|
+|Links | [Github](https://github.com/YuriOku), [Google Scholar](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [ORCID](https://orcid.org/0000-0002-5712-6865), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216936867)|
 
 ## Education
 
@@ -38,5 +38,5 @@ date: 2020-05-02T21:59:23+09:00
 
 ## Membership
 
-- [The Astronomical Society of Japan](http://www.asj.or.jp/index.html)
+- [The Astronomical Society of Japan](https://www.asj.or.jp/index.html)
 - [The Physical Society of Japan](https://jps.or.jp/)
