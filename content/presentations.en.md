@@ -6,16 +6,16 @@ date: 2020-05-07T17:25:55+09:00
 ### Upcoming domestic conferences
 
 {{< rawhtml >}}
-<ol><li>
-  "超新星残骸の時間発展を考慮した超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="http://www.asj.or.jp/nenkai/">2021 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2020/03/16-19 (oral)
-  </li>
-</ol>
+<ol></ol>
 {{< /rawhtml >}}
 
 ### Past domestic conferences
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>
+  "超新星残骸の時間発展を考慮した超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="http://www.asj.or.jp/nenkai/">2021 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2020/03/16-19 (oral)
+  </li>
   <li>
   "Modeling Supernovae Based on High-resolution Simulations", Oku, Y., Tomida, K., Nagamine, K., Shimizu, I., <a href="https://www.cfca.nao.ac.jp/newsletter/um2020news">CfCA Users' Meeting 2020</a>, Online, 2020/01/19-20 (poster)
   </li>
