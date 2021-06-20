@@ -6,7 +6,9 @@ date: 2020-05-07T17:25:55+09:00
 ### Upcoming domestic conferences
 
 {{< rawhtml >}}
-<ol></ol>
+<ol>
+ <li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/jp/activities/nenkai/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
+</ol>
 {{< /rawhtml >}}
 
 ### Past domestic conferences

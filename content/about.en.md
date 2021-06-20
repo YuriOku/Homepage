@@ -32,6 +32,10 @@ date: 2020-05-02T21:59:23+09:00
 - Galactic outflow
 - Numerical simulation
 
+## Grants
+
+- [JSPS Research Fellow DC1](https://www.jsps.go.jp/english/e-pd/index.html), "[銀河アウトフローから解明する低質量銀河形成](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20930/)", 2021/4 - 2024/3
+
 ## Awards
 
 - August 2020 Galaxy-IGM workshop the highest award (IGM theory group)
