@@ -39,7 +39,8 @@ date: 2020-05-02T21:59:23+09:00
 
 ## Awards
 
-- August 2020 Galaxy-IGM workshop the highest award (IGM theory group)
+- August 2021 Galaxy-IGM workshop, Best presentation award (Group work, AGN observation group)
+- August 2020 Galaxy-IGM workshop, Best presentation award (Group work, IGM theory group)
 
 ## Membership
 
