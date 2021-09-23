@@ -3,13 +3,12 @@ title: "Presentations"
 date: 2020-05-07T17:25:55+09:00
 ---
 
-### Upcoming domestic conferences
+<!-- ### Upcoming domestic conferences
 
 {{< rawhtml >}}
 <ol>
- <li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/jp/activities/nenkai/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
 </ol>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 
 ### Past international conferences
@@ -17,6 +16,7 @@ date: 2020-05-07T17:25:55+09:00
 {{< rawhtml >}}
 <ol>
  <li>"Osaka Feedback Model II: Modeling Supernovae Based On High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/site/santacruzcomparisonproject/workshops">9th annual Workshop of the AGORA Project</a>, Online meeting, 2021/08/12-13 (recorded video talk)
+ </li>
 </ol>
 {{< /rawhtml >}}
 
@@ -24,20 +24,17 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2021/08/16/galaxy-igm/">Galaxy-IGM workshop 2021</a>, Online meeting, 2021/08/16-20 (oral)
-  <li>
+  <li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/jp/activities/nenkai/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
+  </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2021/08/16/galaxy-igm/">Galaxy-IGM workshop 2021</a>, Online meeting, 2021/08/16-20 (oral)
+  </li><li>
   "超新星残骸の時間発展を考慮した超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/nenkai/archive/2021a">2021 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/03/16-19 (oral)
-  </li>
-  <li>
+  </li><li>
   "Modeling Supernovae Based on High-resolution Simulations", Oku, Y., Tomida, K., Nagamine, K., Shimizu, I., <a href="https://www.cfca.nao.ac.jp/newsletter/um2020news">CfCA Users' Meeting 2020</a>, Online, 2021/01/19-20 (poster)
-  </li>
-  <li>
+  </li><li>
   "高分解能シミュレーションに基づいた超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/nenkai/archive/2020b">2020 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2020/09/08-10 (oral)
-  </li>
-  <li>
+  </li><li>
   "Modeling Supernovae Based on High Resolution Simulations", Oku, Y., Tomida, K., Nagamine, K., Shimizu, I., <a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2020/08/03/galaxy-igm/">Galaxy-IGM workshop 2020</a>, Online meeting, 2020/08/03-07 (oral)
-  </li>
-  <li>
+  </li><li>
   "超新星フィードバックの金属量依存性", Oku, Y., Tomida, K.,<a href="https://www.asj.or.jp/nenkai/archive/2020a/"> 2020 Spring Annual Meeting, The Astronomical Society of Japan</a>, Tsukuba U., 2020/03/16-19 (oral)
   </li><li>
   "Towards Modeling Supernovae in Galaxy Formation Simulation", Oku, Y., Nagamine, K., Shimizu, I., Tomida, K., <a href="https://www.cfca.nao.ac.jp/content/令和元年度国立天文台-天文シミュレーションプロジェクトユーザーズミーティング">CfCA Users' Meeting 2019</a>, NAOJ Mitaka, 2020/01/20-21 (poster)
