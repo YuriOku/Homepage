@@ -35,7 +35,7 @@ date: 2020-05-02T21:59:23+09:00
 ## Grants/Fellowship/Scholarship
 
 - [JSPS Research Fellow DC1](https://www.jsps.go.jp/english/e-pd/index.html), "銀河アウトフローから解明する低質量銀河形成", [21J20930](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J20930/), JPY 2,200,000, 2021/4 - 2024/3
-- JASSO [Exemption from repayment for graduate school studensts with particularly outstanding academic achievements](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/gaiyo.html) (whole exemption), JPY 1,200,000
+- JASSO [Exemption from repayment for graduate school studensts with particularly outstanding academic achievements](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/gaiyo.html) (whole exemption)
 
 ## Awards
 
