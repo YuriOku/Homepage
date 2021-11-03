@@ -3,18 +3,13 @@ title: "Presentations"
 date: 2020-05-07T17:25:55+09:00
 ---
 
-<!-- ### Upcoming domestic conferences
-
-{{< rawhtml >}}
-<ol>
-</ol>
-{{< /rawhtml >}} -->
-
 
 ### Past international conferences
 
 {{< rawhtml >}}
-<ol>
+<ol reversed=reversed">
+ <li>"Osaka Feedback Model II: Modelling supernovae based on high-resolution simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://kiaa.pku.edu.cn/KooGig_junior21/Home.htm">1st KooGiG-Junior Workshop</a>, Online meeting, 2021/11/01-05
+ </li>
  <li>"Osaka Feedback Model II: Modeling Supernovae Based On High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/site/santacruzcomparisonproject/workshops">9th annual Workshop of the AGORA Project</a>, Online meeting, 2021/08/12-13 (recorded video talk)
  </li>
 </ol>
