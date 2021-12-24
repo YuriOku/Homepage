@@ -19,7 +19,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/jp/activities/nenkai/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
+  <li>"高分解能シミュレーションに基づいた超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/view/rironkon2021/">Rironkon symposium 2021</a>, Online meeting, 2021/12/22-24 (poster)
+  </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/jp/activities/nenkai/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
   </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2021/08/16/galaxy-igm/">Galaxy-IGM workshop 2021</a>, Online meeting, 2021/08/16-20 (oral)
   </li><li>
   "超新星残骸の時間発展を考慮した超新星フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/nenkai/archive/2021a">2021 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/03/16-19 (oral)
@@ -34,7 +35,7 @@ date: 2020-05-07T17:25:55+09:00
   </li><li>
   "Towards Modeling Supernovae in Galaxy Formation Simulation", Oku, Y., Nagamine, K., Shimizu, I., Tomida, K., <a href="https://www.cfca.nao.ac.jp/content/令和元年度国立天文台-天文シミュレーションプロジェクトユーザーズミーティング">CfCA Users' Meeting 2019</a>, NAOJ Mitaka, 2020/01/20-21 (poster)
   </li><li>
-  "銀河形成シミュレーションでの超新星フィードバックモデルに向けて", Oku, Y., Nagamine, K., Shimizu, I., Tomida, K., <a href="https://sci.nao.ac.jp/workshops/rironkon19/index.html">Rironkon symposium</a>, NAOJ Mitaka, 2019/12/25-27 (poster)
+  "銀河形成シミュレーションでの超新星フィードバックモデルに向けて", Oku, Y., Nagamine, K., Shimizu, I., Tomida, K., <a href="https://sci.nao.ac.jp/workshops/rironkon19/index.html">Rironkon symposium 2019</a>, NAOJ Mitaka, 2019/12/25-27 (poster)
   </li><li>
   "Towards Modeling Supernovae in Galaxy Formation Simulation", Oku, Y., Nagamine, K., Shimizu, I., <a href="http://tpweb2.phys.konan-u.ac.jp/~shodai/2019/">First Stars & First Galaxies Workshop 2019</a>, Nagoya U., 2019/11/11-13 (poster)
   </li><li>
