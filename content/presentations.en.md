@@ -8,7 +8,9 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
- <li>"Osaka Feedback Model II: Modelling supernovae based on high-resolution simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://kiaa.pku.edu.cn/KooGig_junior21/Home.htm">1st KooGiG-Junior Workshop</a>, Online meeting, 2021/11/01-05
+ <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://events.asiaa.sinica.edu.tw/workshop/20220207/index.php">Galaxy Evolution Workshop 2021</a>, Online meeting, 2022/02/07-10 (oral)
+ </li>
+ <li>"Osaka Feedback Model II: Modelling supernovae based on high-resolution simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://kiaa.pku.edu.cn/KooGig_junior21/Home.htm">1st KooGiG-Junior Workshop</a>, Online meeting, 2021/11/01-05 (oral)
  </li>
  <li>"Osaka Feedback Model II: Modeling Supernovae Based On High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/site/santacruzcomparisonproject/workshops">9th annual Workshop of the AGORA Project</a>, Online meeting, 2021/08/12-13 (recorded video talk)
  </li>
@@ -19,7 +21,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>"高分解能シミュレーションに基づいた超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/view/rironkon2021/">Rironkon symposium 2021</a>, Online meeting, 2021/12/22-24 (poster)
+  <li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://www.cfca.nao.ac.jp/newsletter/um2021news">令和3年度 国立天文台 CfCAユーザーズミーティング</a>, Online meeting, 2022/01/18-19 (oral)
+  </li><li>"高分解能シミュレーションに基づいた超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/view/rironkon2021/">Rironkon symposium 2021</a>, Online meeting, 2021/12/22-24 (poster)
   </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/jp/activities/nenkai/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
   </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2021/08/16/galaxy-igm/">Galaxy-IGM workshop 2021</a>, Online meeting, 2021/08/16-20 (oral)
   </li><li>
