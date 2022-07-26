@@ -3,6 +3,14 @@ title: "Presentations"
 date: 2020-05-07T17:25:55+09:00
 ---
 
+### Upcoming international conferences
+
+{{< rawhtml >}}
+<ol reversed=reversed">
+ <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://iausymp373.web.illinois.edu/">IAU Symposium 373 "Resolving the Rise and Fall of Star Formation in Galaxies"</a>, BEXCO, Busan, Korea, 2022/08/02-11 (oral)
+ </li>
+</ol>
+{{< /rawhtml >}}
 
 ### Past international conferences
 
