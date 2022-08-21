@@ -3,19 +3,21 @@ title: "Presentations"
 date: 2020-05-07T17:25:55+09:00
 ---
 
-### Upcoming international conferences
+<!-- ### Upcoming international conferences
 
 {{< rawhtml >}}
 <ol reversed=reversed">
- <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://iausymp373.web.illinois.edu/">IAU Symposium 373 "Resolving the Rise and Fall of Star Formation in Galaxies"</a>, BEXCO, Busan, Korea, 2022/08/02-11 (oral)
- </li>
 </ol>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 ### Past international conferences
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+ <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://hipacc.ucsc.edu/GalaxyWorkshop2022.html">2022 Santa Cruz Galaxy Workshop</a>, UC Santa Cruz, 2022/08/19 (oral)
+ </li>
+ <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://iausymp373.web.illinois.edu/">IAU Symposium 373 "Resolving the Rise and Fall of Star Formation in Galaxies"</a>, BEXCO, Busan, Korea, 2022/08/02-11 (oral)
+ </li>
  <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://events.asiaa.sinica.edu.tw/workshop/20220207/index.php">Galaxy Evolution Workshop 2021</a>, Online meeting, 2022/02/07-10 (oral)
  </li>
  <li>"Osaka Feedback Model II: Modelling supernovae based on high-resolution simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://kiaa.pku.edu.cn/KooGig_junior21/Home.htm">1st KooGiG-Junior Workshop</a>, Online meeting, 2021/11/01-05 (oral)
