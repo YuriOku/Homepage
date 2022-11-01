@@ -1,4 +1,13 @@
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YG0VSNT7RL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YG0VSNT7RL');
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ with .Page.Title }}{{ . }} - {{ end }}{{ .Site.Title }}</title>
@@ -6,7 +15,8 @@
     {{ $normalize := resources.Get "css/normalize.css" }}
     {{ $solarized := resources.Get "css/solarized-light.css" }}
     {{ $style := resources.Get "css/style.css" }}
-    {{ $css := slice $normalize $solarized $style | resources.Concat "css/main.css" | resources.Minify | resources.Fingerprint }}
+    {{ $css := slice $normalize $solarized $style | resources.Concat "css/main.css" | resources.Minify |
+    resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $css.Permalink }}">
     <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
