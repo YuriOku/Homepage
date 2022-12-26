@@ -14,7 +14,7 @@ date: 2020-05-02T21:59:23+09:00
 |Email | oku[at]astro-osaka.jp|
 |Phone | +81-6-6850-5482|
 |Address| 1-1, Machikaneyama, Toyonaka, Osaka, 560-0043, JAPAN|
-|Links | [Github](https://github.com/YuriOku), [Google Scholar](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [ORCID](https://orcid.org/0000-0002-5712-6865), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216936867)|
+  |Links | [<span class="icon">Github</span><img class="icon" src="icon/github.svg">](https://github.com/YuriOku), [<span class="icon">Google Scholar</span><img class="icon" src="icon/google-scholar.svg">](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [<span class="icon">ORCID</span><img class="icon" src="icon/orcid.svg">](https://orcid.org/0000-0002-5712-6865), [<span class="icon">Scopus</span><img class="icon" src="icon/scopus.svg">](https://www.scopus.com/authid/detail.uri?authorId=57216936867)|
 
 ## Education
 
@@ -30,6 +30,7 @@ date: 2020-05-02T21:59:23+09:00
 - Galaxy formation and evolution
 - Supernova feedback
 - Galactic outflow
+- Metal enrichment history of CGM and IGM
 - Numerical simulation
 
 ## Grants/Fellowship/Scholarship

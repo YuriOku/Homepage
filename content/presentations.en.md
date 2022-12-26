@@ -31,7 +31,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://www.asj.or.jp/nenkai/archive/2022a/">2022 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2022/03/02-05 (oral)
+  <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://sites.google.com/view/rironkon2022/">Rironkon Symposium 2022</a>, コラッセふくしま, 2022/12/21-23 (poster)
+  </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://www.asj.or.jp/nenkai/archive/2022a/">2022 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2022/03/02-05 (oral)
   </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://www.cfca.nao.ac.jp/newsletter/um2021news">令和3年度 国立天文台 CfCAユーザーズミーティング</a>, Online meeting, 2022/01/18-19 (oral)
   </li><li>"高分解能シミュレーションに基づいた超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://sites.google.com/view/rironkon2021/">Rironkon symposium 2021</a>, Online meeting, 2021/12/22-24 (poster)
   </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I.,<a href="https://www.asj.or.jp/nenkai/archive/2021b/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)

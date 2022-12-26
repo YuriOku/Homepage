@@ -125,6 +125,13 @@ ul {
     height: 1.5rem;
 }
 
+.icon {
+  vertical-align: middle;
+  height:1.35em;
+  width:1.35em;
+  /* background-size: 1em 1em; */
+}
+
 #content,
 #recent-posts {
     margin: 32px auto;
