@@ -31,6 +31,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://www.cfca.nao.ac.jp/newsletter/um2022news/">2022(令和4)年度 国立天文台CfCAユーザーズミーティング</a>, 国立天文台三鷹, 2022/01/26-27 (poster)
+  </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://sites.google.com/view/rironkon2022/">Rironkon Symposium 2022</a>, コラッセふくしま, 2022/12/21-23 (poster)
   </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://www.asj.or.jp/nenkai/archive/2022a/">2022 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2022/03/02-05 (oral)
   </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://www.cfca.nao.ac.jp/newsletter/um2021news">令和3年度 国立天文台 CfCAユーザーズミーティング</a>, Online meeting, 2022/01/18-19 (oral)
