@@ -31,6 +31,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://www.asj.or.jp/nenkai/archive/2023a/session-X.html/">日本天文学会2023年春季年会</a>, 立教大学, 2023/03/13-16 (oral)
+  </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://www.cfca.nao.ac.jp/newsletter/um2022news/">2022(令和4)年度 国立天文台CfCAユーザーズミーティング</a>, 国立天文台三鷹, 2023/01/26-27 (poster)
   </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://sites.google.com/view/rironkon2022/">Rironkon Symposium 2022</a>, コラッセふくしま, 2022/12/21-23 (poster)
