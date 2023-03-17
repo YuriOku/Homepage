@@ -14,6 +14,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"Cosmological hydrodynamical simulation for the galaxy-IGM study in the PFS era", Oku, Y., Nagamine, K.,<a href="https://events.asiaa.sinica.edu.tw/workshop/20230220/index.php">9th Galaxy Evolution Workshop</a>, Kyoto University, 2023/02/20-23 (poster)
+  </li>
  <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://hipacc.ucsc.edu/GalaxyWorkshop2022.html">2022 Santa Cruz Galaxy Workshop</a>, UC Santa Cruz, 2022/08/19 (oral)
  </li>
  <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R.,<a href="https://iausymp373.web.illinois.edu/">IAU Symposium 373 "Resolving the Rise and Fall of Star Formation in Galaxies"</a>, BEXCO, Busan, Korea, 2022/08/02-11 (oral)
