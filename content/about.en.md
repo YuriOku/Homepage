@@ -40,6 +40,8 @@ date: 2020-05-02T21:59:23+09:00
 
 ## Awards
 
+- Research Excellence Award of Graduate School of Science 2022, Osaka University
+- Research Excellence Award of Graduate School of Science 2021, Osaka University
 - August 2021 Galaxy-IGM workshop, Best presentation award (Group work, AGN observation group)
 - August 2020 Galaxy-IGM workshop, Best presentation award (Group work, IGM theory group)
 
