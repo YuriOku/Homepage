@@ -33,6 +33,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"Cosmological Simulation with Osaka Feedback Model II", Oku, Y., Nagamine, K., <a href="http://cos.icrr.u-tokyo.ac.jp/galaxy_igm_workshop_2023.html">Galaxy-IGM Workshop 2023</a>, アクトシティ浜松, 2023/07/31-08/04 (oral)
+  </li>
   <li>"Preventive Feedback on Accretion to Galaxies", Oku, Y., Nagamine, K., <a href="https://kyotoconf.wixsite.com/accretion2023">第11回 山田研究会「宇宙における降着現象 ～活動性・多様性の源～」</a>, 京都大学, 2023/06/3-5 (poster)
   </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K.,<a href="https://www.asj.or.jp/nenkai/archive/2023a/session-X.html/">日本天文学会2023年春季年会</a>, 立教大学, 2023/03/13-16 (oral)
