@@ -83,7 +83,9 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>Mar 24, 2023, Flatiron Institute, CCA Galaxy Formation group meeting: "Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations"
+  <li>Nov 21, 2023, University of Milano Bicocca, Astrocoffee, "Supernova and AGN Feedback in Galaxies and IGM"
+  </li>
+  <li>Mar 24, 2023, Flatiron Institute, CCA Galaxy Formation group meeting, "Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations"
   </li>
 </ol>
 {{< /rawhtml >}}
