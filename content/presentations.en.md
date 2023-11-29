@@ -83,6 +83,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>Nov 29, 2023, Scuola Normale Superiore, Talk at Cosmology Group, Astrocoffe, "IGM metal enrichment by Supernova and AGN Feedback"
+  </li>
   <li>Nov 21, 2023, University of Milano Bicocca, Astrocoffe, "Supernova and AGN Feedback in Galaxies and IGM"
   </li>
   <li>Mar 24, 2023, Flatiron Institute, CCA Galaxy Formation group meeting, "Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations"
