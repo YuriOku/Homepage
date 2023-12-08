@@ -3,6 +3,9 @@ title: "About me"
 date: 2020-05-02T21:59:23+09:00
 ---
 
+## Curriculum Vitae
+[PDF](https://www.dropbox.com/scl/fi/5528sxs2cohcuo945nez6/My_Carriculum_Vitae.pdf?rlkey=vsj12mvvmnxkf3kc88xdmdq70&dl=0)
+
 ## Personal
 
 | | |

@@ -5,7 +5,7 @@ date: 2020-05-07T18:54:23+09:00
 
 ## Publications
 
-[My Publications List - NASA ADS Library](https://ui.adsabs.harvard.edu/public-libraries/nh_1-GaxRliz19Uv7IJ2XA)
+[My Publications - NASA ADS Library](https://ui.adsabs.harvard.edu/public-libraries/nh_1-GaxRliz19Uv7IJ2XA)
 
 ## Research
 
@@ -20,5 +20,5 @@ The video below shows the density-weighted gas density, temperature, and metalli
 The Non-stochastic run also includes both kinetic and thermal feedback, but thermal feedback is not stochastic. Such a simple "thermal bomb" is known to be subjected to the "overcooling problem" due to the lack of the resolution to resolve the cooling mass.
 The SNII-kinetic and SNII-thermal runs are simulations with only kinetic and thermal feedback from Type II supernovae, and NoFB run is a simulation without feedback. In runs with kinetic feedback (Fidicial, Non-stochastic, and SNII-kinetic), the turbulence driven by kinetic feedback maintains their gas disks against gravitational collapse while the other galaxies become clumpy.
 
-This movie is available at [https://www.dropbox.com/sh/wqqcwswc653u3gn/AAA8ZiCVxoKd6PUiz0W_Shsxa?dl=0](https://www.dropbox.com/sh/wqqcwswc653u3gn/AAA8ZiCVxoKd6PUiz0W_Shsxa?dl=0)
 {{< youtube eJUKijc57AE>}}
+This movie can be downloaded [here](https://www.dropbox.com/scl/fi/t87s2j95znsdehxxtl94j/faceon.mp4?rlkey=rofltg97endy91raqglm8vi4b&dl=0)
