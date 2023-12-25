@@ -37,6 +37,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"宇宙論的銀河形成シミュレーションで探る IGM 金属汚染とフィードバック物理", Oku, Y., <a href="https://sites.google.com/view/rironkon2023">Rironkon Symposium 2023</a>, 弘前大学, 2023/12/25-27 (oral)
+  </li>
   <li>"フィードバックと金属汚染", Oku, Y., Nagamine, K., 微細構造輝線勉強会, 愛媛大学, 2023/09/04-05 (oral)
   </li>
   <li>"Cosmological Simulation with Osaka Feedback Model II", Oku, Y., Nagamine, K., <a href="http://cos.icrr.u-tokyo.ac.jp/galaxy_igm_workshop_2023.html">Galaxy-IGM Workshop 2023</a>, アクトシティ浜松, 2023/07/31-08/04 (oral)
