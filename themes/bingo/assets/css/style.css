@@ -260,3 +260,16 @@ border-spacing: 0;
 td {
 padding: 3px;
 }
+
+figcaption {
+    text-align: center;
+    font-size: .8rem;
+    color: var(--grey-dark);
+    font-family: monospace;
+}
+
+.mov-link {
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: monospace;
+}
