@@ -37,6 +37,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"Local Star-forming Galaxies in CROCODILE", Oku, Y., <a href="https://www.shunan-u.jp/fis/staff/michiyama/?page_id=418">Dense GAS in Nearby Galaxies – ALMA Workshop</a>, Osaka University Nakanoshima Center, 2024/03/04-06 (oral)
+  </li>
   <li>"宇宙論的銀河形成シミュレーションで探る IGM 金属汚染とフィードバック物理", Oku, Y., <a href="https://sites.google.com/view/rironkon2023">Rironkon Symposium 2023</a>, 弘前大学, 2023/12/25-27 (oral)
   </li>
   <li>"フィードバックと金属汚染", Oku, Y., Nagamine, K., 微細構造輝線勉強会, 愛媛大学, 2023/09/04-05 (oral)
