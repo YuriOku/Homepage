@@ -14,17 +14,9 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>"SN Feedback, Cosmological Galaxy Formation", Oku, Y., Nagamine, K., Osaka-CCA-Pisa mini ILR workshop, Osaka University, 2023/11/14-15 (oral)
-  </li>
-  <li>"Cosmological hydrodynamical simulation with feedback model based on high-resolution simulations", Oku, Y., Nagamine, K., <a href="https://sites.google.com/view/resolvinguniverse2023/home">Resolving the Extragalactic Universe with ALMA and JWST</a>, Waseda University, 2023/11/06-10 (poster)
-  </li>
-  <li>"Cosmological hydrodynamical simulation for the galaxy-IGM study in the PFS era", Oku, Y., Nagamine, K., <a href="https://events.asiaa.sinica.edu.tw/workshop/20230220/index.php">9th Galaxy Evolution Workshop</a>, Kyoto University, 2023/02/20-23 (poster)
-  </li>
  <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://hipacc.ucsc.edu/GalaxyWorkshop2022.html">2022 Santa Cruz Galaxy Workshop</a>, UC Santa Cruz, 2022/08/19 (oral)
  </li>
  <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://iausymp373.web.illinois.edu/">IAU Symposium 373 "Resolving the Rise and Fall of Star Formation in Galaxies"</a>, BEXCO, Busan, Korea, 2022/08/02-11 (oral)
- </li>
- <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://events.asiaa.sinica.edu.tw/workshop/20220207/index.php">Galaxy Evolution Workshop 2021</a>, Online meeting, 2022/02/07-10 (oral)
  </li>
  <li>"Osaka Feedback Model II: Modelling supernovae based on high-resolution simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://kiaa.pku.edu.cn/KooGig_junior21/Home.htm">1st KooGiG-Junior Workshop</a>, Online meeting, 2021/11/01-05 (oral)
  </li>
@@ -45,6 +37,10 @@ date: 2020-05-07T17:25:55+09:00
   </li>
   <li>"宇宙論的銀河形成シミュレーションで探る IGM 金属汚染とフィードバック物理", Oku, Y., <a href="https://sites.google.com/view/rironkon2023">Rironkon Symposium 2023</a>, 弘前大学, 2023/12/25-27 (oral)
   </li>
+  <li>"SN Feedback, Cosmological Galaxy Formation", Oku, Y., Nagamine, K., Osaka-CCA-Pisa mini ILR workshop, Osaka University, 2023/11/14-15 (oral)
+  </li>
+  <li>"Cosmological hydrodynamical simulation with feedback model based on high-resolution simulations", Oku, Y., Nagamine, K., <a href="https://sites.google.com/view/resolvinguniverse2023/home">Resolving the Extragalactic Universe with ALMA and JWST</a>, Waseda University, 2023/11/06-10 (poster)
+  </li>
   <li>"フィードバックと金属汚染", Oku, Y., Nagamine, K., 微細構造輝線勉強会, 愛媛大学, 2023/09/04-05 (oral)
   </li>
   <li>"Cosmological Simulation with Osaka Feedback Model II", Oku, Y., Nagamine, K., <a href="http://cos.icrr.u-tokyo.ac.jp/galaxy_igm_workshop_2023.html">Galaxy-IGM Workshop 2023</a>, アクトシティ浜松, 2023/07/31-08/04 (oral)
@@ -53,11 +49,15 @@ date: 2020-05-07T17:25:55+09:00
   </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K., <a href="https://www.asj.or.jp/nenkai/archive/2023a/session-X.html/">日本天文学会2023年春季年会</a>, 立教大学, 2023/03/13-16 (oral)
   </li>
+  <li>"Cosmological hydrodynamical simulation for the galaxy-IGM study in the PFS era", Oku, Y., Nagamine, K., <a href="https://events.asiaa.sinica.edu.tw/workshop/20230220/index.php">9th Galaxy Evolution Workshop</a>, Kyoto University, 2023/02/20-23 (poster)
+  </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K., <a href="https://www.cfca.nao.ac.jp/newsletter/um2022news/">2022(令和4)年度 国立天文台CfCAユーザーズミーティング</a>, 国立天文台三鷹, 2023/01/26-27 (poster)
   </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K., <a href="https://sites.google.com/view/rironkon2022/">Rironkon Symposium 2022</a>, コラッセふくしま, 2022/12/21-23 (poster)
   </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://www.asj.or.jp/nenkai/archive/2022a/">2022 Spring Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2022/03/02-05 (oral)
-  </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://www.cfca.nao.ac.jp/newsletter/um2021news">令和3年度 国立天文台 CfCAユーザーズミーティング</a>, Online meeting, 2022/01/18-19 (oral)
+  </li>
+ <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://events.asiaa.sinica.edu.tw/workshop/20220207/index.php">Galaxy Evolution Workshop 2021</a>, Online meeting, 2022/02/07-10 (oral)
+ </li><li>"高分解能シミュレーションに基づいた超新星フィードバックモデルの構築",  Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://www.cfca.nao.ac.jp/newsletter/um2021news">令和3年度 国立天文台 CfCAユーザーズミーティング</a>, Online meeting, 2022/01/18-19 (oral)
   </li><li>"高分解能シミュレーションに基づいた超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://sites.google.com/view/rironkon2021/">Rironkon symposium 2021</a>, Online meeting, 2021/12/22-24 (poster)
   </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., <a href="https://www.asj.or.jp/nenkai/archive/2021b/">2021 Autumn Annual Meeting, The Astronomical Society of Japan</a>, Online meeting, 2021/09/13 (oral)
   </li><li>"多相アウトフローを考慮した超新星爆発フィードバックモデルの構築", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., <a href="https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/ja/2021/08/16/galaxy-igm/">Galaxy-IGM workshop 2021</a>, Online meeting, 2021/08/16-20 (oral)
@@ -91,7 +91,7 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
-  <li>Nov 29, 2023, Scuola Normale Superiore, Talk at Cosmology Group, Astrocoffe, "IGM metal enrichment by Supernova and AGN Feedback"
+  <li>Nov 29, 2023, Scuola Normale Superiore, Talk at Cosmology Group, "IGM metal enrichment by Supernova and AGN Feedback"
   </li>
   <li>Nov 21, 2023, University of Milano Bicocca, Astrocoffe, "Supernova and AGN Feedback in Galaxies and IGM"
   </li>
