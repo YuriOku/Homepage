@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Yuri Oku's Homepage"
 theme = "bingo"
 
-googleAnalytics = "UA-170227515-1"
+googleAnalytics = "G-YG0VSNT7RL"
 
 [markup]
 	defaultMarkupHandler = "goldmark"

@@ -12,8 +12,8 @@ date: 2020-05-02T21:59:23+09:00
 |:-----------:|:-----------|
 |Name | Oku, Yuri|
 |名前| 奥 裕理 (おく ゆうり)|
-|Status | Postdoctoral researcher |
-|Affiliation | Center for Cosmology and Computational Astrophysics (C3A), <br> Institute for Advanced Study in Physics, <br> Zhejiang University |
+|Status | Visiting Researcher |
+|Affiliation | Institute for Advanced Study in Physics, <br> Zhejiang University |
 |Email | yuri.oku.astro[at]gmail.com |
 |Address| 38 Zheda Road, Hangzhou, Zhejiang, 310027, PR China |
   |Links | [<span class="icon">Github</span><img class="icon" src="icon/github.svg">](https://github.com/YuriOku), [<span class="icon">Google Scholar</span><img class="icon" src="icon/google-scholar.svg">](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [<span class="icon">ORCID</span><img class="icon" src="icon/orcid.svg">](https://orcid.org/0000-0002-5712-6865), [<span class="icon">Scopus</span><img class="icon" src="icon/scopus.svg">](https://www.scopus.com/authid/detail.uri?authorId=57216936867), [<span class="icon">YouTube</span><img class="icon" src="icon/youtube.svg">](http://www.youtube.com/@yurioku_astro)|
