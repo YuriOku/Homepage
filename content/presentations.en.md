@@ -31,6 +31,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"Resolving the Multiphase Circumgalactic Medium with GAMER GPU Code", Oku, Y., Supercomputing for Astronomy, Zhejiang Lab, 2024/05/21 (oral)
+  </li>
   <li>"Prediction for the IGM tomographic survey by GADGET4-OSAKA simulation", Oku, Y., Nagamine, K., <a href="https://www.asj.or.jp/nenkai/archive/2024a/session-Z1.html/">日本天文学会2024年春季年会</a>, 東京大学, 2024/03/11-12 (oral)
   </li>
   <li>"CROCODILE: Cosmological simulation with physically-motivated feedback models", Oku, Y., Satellite workshop "Formation and Evolution of the Galaxies with Subaru Prime Focus Spectrograph", NAOJ Mitaka, 2024/03/09-10 (oral)
@@ -48,6 +50,8 @@ date: 2020-05-07T17:25:55+09:00
   <li>"Cosmological Simulation with Osaka Feedback Model II", Oku, Y., Nagamine, K., <a href="http://cos.icrr.u-tokyo.ac.jp/galaxy_igm_workshop_2023.html">Galaxy-IGM Workshop 2023</a>, アクトシティ浜松, 2023/07/31-08/04 (oral)
   </li>
   <li>"Preventive Feedback on Accretion to Galaxies", Oku, Y., Nagamine, K., <a href="https://kyotoconf.wixsite.com/accretion2023">第11回 山田研究会「宇宙における降着現象 ～活動性・多様性の源～」</a>, 京都大学, 2023/06/3-5 (poster)
+  </li>
+  <li>"Cosmological Hydrodynamical Simulation For Galaxy-IGM Study in PFS Era", Oku, Y., Nagamine, K., <a href="https://sendow-astron.jp/event/conference-symposium/">国際先導研究キックオフ会議</a>, 国立天文台三鷹, 2023/05/30-06/01 (poster)
   </li>
   <li>"PFS 時代の galaxy-IGM study に向けた宇宙論的流体シミュレーション",  Oku, Y., Nagamine, K., <a href="https://www.asj.or.jp/nenkai/archive/2023a/session-X.html/">日本天文学会2023年春季年会</a>, 立教大学, 2023/03/13-16 (oral)
   </li>
