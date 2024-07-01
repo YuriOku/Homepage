@@ -21,12 +21,19 @@ date: 2020-05-02T21:59:23+09:00
 
 ## Education
 
-| | |
-|:--|:--|
-|2019/4 - 2024/3 | [Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)|
-|2017/4 - 2019/3 | Mathematical Sciences Cource, [Department of Integrated Science](http://www.integrated.c.u-tokyo.ac.jp/),<br> [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)|
-|2015/4 - 2017/3 | Natural Sciences I, [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)|
-|2012/4 - 2015/3 | [Yokkaichi senior High School](http://www.shiko.ed.jp/) |
+**[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)**<br>Ph.D., 2021/4 - 2024/3<br>
+Thesis: [Physically-motivated feedback models and the IGM metal enrichment in cosmological hydrodynamic simulations](https://doi.org/10.18910/96417)
+
+**[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)**<br>Master of Science, 2019/4 - 2021/3
+
+**Mathematical Sciences Cource, [Department of Integrated Science](http://www.integrated.c.u-tokyo.ac.jp/), [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)**<br>
+Bachelor of Liberal Arts, 2017/4 - 2019/3
+
+**Natural Sciences I, [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)**<br>
+2015/4 - 2017/3
+
+**[Yokkaichi senior High School](http://www.shiko.ed.jp/)**<br>
+2012/4 - 2015/3
 
 ## Research Interests
 
