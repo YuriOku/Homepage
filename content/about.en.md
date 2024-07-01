@@ -17,22 +17,22 @@ date: 2020-05-02T21:59:23+09:00
 |Email | yuri.oku.astro[at]gmail.com |
 |Address| 38 Zheda Road, Hangzhou, Zhejiang, 310027, PR China |
   |Links | [<span class="icon">Github</span><img class="icon" src="icon/github.svg">](https://github.com/YuriOku), [<span class="icon">Google Scholar</span><img class="icon" src="icon/google-scholar.svg">](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [<span class="icon">ORCID</span><img class="icon" src="icon/orcid.svg">](https://orcid.org/0000-0002-5712-6865), [<span class="icon">Scopus</span><img class="icon" src="icon/scopus.svg">](https://www.scopus.com/authid/detail.uri?authorId=57216936867), [<span class="icon">YouTube</span><img class="icon" src="icon/youtube.svg">](http://www.youtube.com/@yurioku_astro)|
-<!-- |Phone | +81-6-6850-5482| -->
 
 ## Education
 
-**[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)**<br>Ph.D., 2021/4 - 2024/3<br>
+<strong>[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)</strong><br>
+Ph.D., 2021/4 - 2024/3<br>
 Thesis: [Physically-motivated feedback models and the IGM metal enrichment in cosmological hydrodynamic simulations](https://doi.org/10.18910/96417)
 
-**[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)**<br>Master of Science, 2019/4 - 2021/3
+<strong>[Department of Earth and Space Science](http://www.ess.sci.osaka-u.ac.jp/index.html), [Graduate School of Science](https://www.sci.osaka-u.ac.jp/ja/), [Osaka University](https://www.osaka-u.ac.jp/ja)</strong><br>Master of Science, 2019/4 - 2021/3
 
-**Mathematical Sciences Cource, [Department of Integrated Science](http://www.integrated.c.u-tokyo.ac.jp/), [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)**<br>
+<strong>Mathematical Sciences Cource, [Department of Integrated Science](http://www.integrated.c.u-tokyo.ac.jp/), [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)</strong><br>
 Bachelor of Liberal Arts, 2017/4 - 2019/3
 
-**Natural Sciences I, [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)**<br>
+<strong>Natural Sciences I, [College of Arts and Sciences](https://www.c.u-tokyo.ac.jp/index.html), [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)</strong><br>
 2015/4 - 2017/3
 
-**[Yokkaichi senior High School](http://www.shiko.ed.jp/)**<br>
+<strong>[Yokkaichi senior High School](http://www.shiko.ed.jp/)</strong><br>
 2012/4 - 2015/3
 
 ## Research Interests
