@@ -10,7 +10,7 @@ date: 2020-05-07T17:25:55+09:00
 </ol>
 {{< /rawhtml >}} -->
 
-### Past international conferences
+### International conferences
 
 {{< rawhtml >}}
 <ol reversed=reversed">
@@ -27,10 +27,12 @@ date: 2020-05-07T17:25:55+09:00
 </ol>
 {{< /rawhtml >}}
 
-### Past domestic conferences
+### Domestic conferences
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"IGM Metal Enrichment in CROCODILE Simulation", Oku, Y., <a href="https://sites.google.com/view/ilr-ws-2024/home">ILR workshop @ Osaka 2024</a>, 大阪大学, 2024/09/25-27 (oral)
+  </li>
   <li>"Resolving the Multiphase Circumgalactic Medium with GAMER GPU Code", Oku, Y., Supercomputing for Astronomy, Zhejiang Lab, 2024/05/21 (oral)
   </li>
   <li>"Prediction for the IGM tomographic survey by GADGET4-OSAKA simulation", Oku, Y., Nagamine, K., <a href="https://www.asj.or.jp/nenkai/archive/2024a/session-Z1.html/">日本天文学会2024年春季年会</a>, 東京大学, 2024/03/11-12 (oral)
