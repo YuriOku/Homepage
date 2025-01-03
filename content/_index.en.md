@@ -13,6 +13,7 @@ I am a theoretical astrophysicist at Zhejiang University.
 {{< /rawhtml >}}
 
 ### NEWS
+- **2024/11/01** Paper published in ApJ: "[Osaka Feedback Model III: Cosmological Simulation CROCODILE](https://iopscience.iop.org/article/10.3847/1538-4357/ad77d3)" (Oku and Nagamine).
 - **2024/04** Joined the Center for Cosmology and Computational Astrophysics (C3A) at the Institute for Advanced Study in Physics of Zhejiang University as a postdoctoral researcher.
 - **2024/02/07** Defended my PhD. Thesis titled "Physically-motivated feedback models and the IGM metal enrichment in cosmological hydrodynamic simulations" (Advisor: Prof. Nagamine).
 - **2023/12/30** Paper submitted: "[Osaka Feedback Model III: Cosmological Simulation CROCODILE](https://arxiv.org/abs/2401.06324)" (Oku and Nagamine).

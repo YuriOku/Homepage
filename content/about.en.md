@@ -14,7 +14,7 @@ date: 2020-05-02T21:59:23+09:00
 |名前| 奥 裕理 (おく ゆうり)|
 |Status | Postdoctral Research Associate |
 |Affiliation | Institute for Advanced Study in Physics, <br> Zhejiang University |
-|Email | yuri.oku.astro[at]gmail.com <br> oku[at]zju.edu.cn |
+|Email | yuri.oku.astro[at]gmail.com <br> oku[at]zju.edu.cn <br> oku[at]astro-osaka.jp |
 |Address| 38 Zheda Road, Hangzhou, Zhejiang, 310027, PR China |
   |Links | [<span class="icon">Github</span><img class="icon" src="icon/github.svg">](https://github.com/YuriOku), [<span class="icon">Google Scholar</span><img class="icon" src="icon/google-scholar.svg">](https://scholar.google.co.jp/citations?user=Gf8vm28AAAAJ&hl=ja), [<span class="icon">ORCID</span><img class="icon" src="icon/orcid.svg">](https://orcid.org/0000-0002-5712-6865), [<span class="icon">Scopus</span><img class="icon" src="icon/scopus.svg">](https://www.scopus.com/authid/detail.uri?authorId=57216936867), [<span class="icon">YouTube</span><img class="icon" src="icon/youtube.svg">](http://www.youtube.com/@yurioku_astro)|
 
@@ -43,10 +43,17 @@ Bachelor of Liberal Arts, 2017/4 - 2019/3
 ## Research Interests
 
 - Galaxy formation and evolution
-- Supernova feedback
+- Supernova and AGN feedback
 - Galactic outflow
 - Metal enrichment history of CGM and IGM
 - Numerical simulation
+
+## Research Projects and Collaborations
+
+- [AGORA project](https://sites.google.com/site/santacruzcomparisonproject/) --- as a member of GADGET4-Osaka and GAMER-2 code teams
+- [CAMELS project](https://camels.readthedocs.io/en/latest) --- as a member of GADGET4-Osaka code team
+- [CROCODILE simulation](https://sites.google.com/view/crocodilesimulation/home) --- as a core member. This is a large-scale cosmological simulation project stemming from my Ph.D. research.
+- [Subaru Prime Focus Spectrograph](https://pfs.ipmu.jp/) --- as a member of Galaxy Evolution working team
 
 ## Grants/Fellowship/Scholarship
 
