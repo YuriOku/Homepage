@@ -14,6 +14,7 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+ <li>"IGM Metal Enrichment in CROCODILE" Oku, Y., Nagamine, K., <a href="https://www.simonsfoundation.org/event/cosmology-and-galaxy-astrophysics-with-simulations-and-machine-learning-2024/">Cosmology and galaxy astrophysics with simulations and machine learning 2024</a>, Flatiron Institute, CCA, 2024/12/09-12 (oral)
  <li>"IGM Metal Enrichment in CROCODILE Simulation", Oku, Y., <a href="https://ngfagora.github.io/">AGORA in Asia + 5th Numerical Galaxy Formation Meeting in Korea</a>, Seoul National University (attending remotely), 2024/05/07 (oral)
 </li>
  <li>"Osaka Feedback Model II: Modeling Supernova Feedback Based on High-Resolution Simulations", Oku, Y., Tomida,K., Nagamine, K., Shimizu, I., Cen, R., <a href="https://hipacc.ucsc.edu/GalaxyWorkshop2022.html">2022 Santa Cruz Galaxy Workshop</a>, UC Santa Cruz, 2022/08/19 (oral)
