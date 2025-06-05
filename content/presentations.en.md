@@ -32,6 +32,8 @@ date: 2020-05-07T17:25:55+09:00
 
 {{< rawhtml >}}
 <ol reversed=reversed">
+  <li>"International Workshop on Galaxy Formation + AGORA in Asia 2025", Oku, Y., <a href="https://sites.google.com/view/galaxy-formation-agora-2025/home">International Workshop on Galaxy Formation + AGORA in Asia 2025</a>, Nakanoshima Center, the University of Osaka, Japan, 2025/05/26-30 (oral)
+  </li>
   <li>"Enhanced SN Feedback with Top-Heavy IMF in CROCODILE Cosmological Simulation", Oku, Y., <a href="https://sites.google.com/view/early-universe-meeting-2024/home">Elucidating the Material Circulation in the Early Universe</a>, Komaba campus, the University of Tokyo, 2025/03/10-12 (oral)
   </li>
   <li>"IGM Metal Enrichment in CROCODILE Simulation", Oku, Y., <a href="https://sites.google.com/view/ilr-ws-2024/home">ILR workshop @ Osaka 2024</a>, 大阪大学, 2024/09/25-27 (oral)
